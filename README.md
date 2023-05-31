@@ -27,7 +27,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 <a name="about-project">Hello Microverse</a>
 
@@ -45,7 +44,6 @@ It displays 'Hello Microverse' on the screen of the user.
 
   </ul>
 </details>
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -54,9 +52,6 @@ It displays 'Hello Microverse' on the screen of the user.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -71,13 +66,6 @@ In order to run this project you need:
 2. Git installed on your system to clone the repository.
 3. A web browser to view and test the project.
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -94,14 +82,6 @@ Example command:
 Install this project with:
 After cloning the repository, navigate into the project's directory. If there are any dependencies required for the project, you need to install them. Typically, this involves using a package manager like npm or yarn.
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -112,7 +92,6 @@ To run the project, execute the following command:
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 👤 **Akorede**
@@ -122,14 +101,12 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **The ability of the user to edit the text to be displayed on the screen**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -139,7 +116,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -147,16 +123,10 @@ If you like this project. show your support by following my github account.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 I would like to thanks to the Team of Microverse for inspiring this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
