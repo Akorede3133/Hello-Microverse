@@ -41,12 +41,8 @@ It displays 'Hello Microverse' on the screen of the user.
   <summary>Client</summary>
   <ul>
     <li><a href="https://html.com/">HTML</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Client</summary>
-  <ul>
     <li><a href="https://www.css3.com/">CSS</a></li>
+
   </ul>
 </details>
 <!-- Features -->
