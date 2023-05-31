@@ -53,7 +53,6 @@ It displays 'Hello Microverse' on the screen of the user.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Diplays Hello Microverse on the screen upon the visitation of webpage**
 
@@ -65,7 +64,6 @@ It displays 'Hello Microverse' on the screen of the user.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
